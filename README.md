@@ -1,3 +1,13 @@
-# Powerless
+# Ghitub
 
-Vous trouverez l'export Mac et Windows du projet ainsi que mon dossier de production sous forme de Power Point (.pptx et .ppsx)
+Vous trouverez mon dossier de production en format Pp (.pptx et .ppsx).
+
+
+# Flickr
+
+Vous trouverez toutes mes images pour mes recherches, croquis, ... ainsi que celles contenues dans le Pp.
+
+
+# Itch.io
+
+Vous trouverez mes exports Mac et Windows.
